@@ -17,7 +17,8 @@ if (!existsSync(indexPath)) {
     "Recode.Remix.Design",
     "ComputingEducation 2026",
     "https://computingeducation.de/impressum/",
-    "Inhalte werden vorbereitet",
+    "Alle Arbeiten",
+    "/exponate/schotter/",
   ]) {
     if (!html.includes(expected)) {
       failures.push(`dist/index.html does not contain: ${expected}`);

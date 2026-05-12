@@ -15,7 +15,7 @@ const cases = [
     screenshot: ".planning/artifacts/phase-01/mobile-home.png",
   },
   {
-    path: "/exponate/platzhalter/",
+    path: "/exponate/schotter/",
     viewport: { width: 390, height: 844 },
     screenshot: ".planning/artifacts/phase-01/mobile-exhibit.png",
   },

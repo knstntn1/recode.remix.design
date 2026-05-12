@@ -14,7 +14,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 
 - [x] **Phase 1: Static Site Foundation and Visual System** - Create the Astro static site foundation and Computingeducation-style layout shell. (completed 2026-05-12)
 - [x] **Phase 2: Source Content and Asset Migration** - Import the exhibition and exhibit content, copy media locally, and remove runtime source-site media dependencies. (completed 2026-05-12)
-- [ ] **Phase 3: Exhibition Pages and Navigation** - Build the start page, exhibit grid, 17 exhibit detail pages, and navigation flows.
+- [x] **Phase 3: Exhibition Pages and Navigation** - Build the start page, exhibit grid, 17 exhibit detail pages, and navigation flows. (completed 2026-05-12)
 - [ ] **Phase 4: Verification and Deployment Readiness** - Verify build output, links, asset independence, responsive rendering, and gallery-domain readiness.
 
 ## Phase Details
@@ -74,7 +74,7 @@ Plans:
 Plans:
 - [x] 03-01: Implement content-driven exhibit routes and detail page layout.
 - [x] 03-02: Build the exhibition start page and exhibit card grid with local previews.
-- [ ] 03-03: Add exhibit navigation, metadata, and content rendering polish.
+- [x] 03-03: Add exhibit navigation, metadata, and content rendering polish.
 
 ### Phase 4: Verification and Deployment Readiness
 **Goal**: The static site is verified, polished, and ready for deployment under the gallery domain.
@@ -102,5 +102,5 @@ Phases execute in numeric order: 1 -> 2 -> 3 -> 4
 |-------|----------------|--------|-----------|
 | 1. Static Site Foundation and Visual System | 3/3 | Complete    | 2026-05-12 |
 | 2. Source Content and Asset Migration | 3/3 | Complete    | 2026-05-12 |
-| 3. Exhibition Pages and Navigation | 2/3 | In Progress|  |
+| 3. Exhibition Pages and Navigation | 3/3 | Complete   | 2026-05-12 |
 | 4. Verification and Deployment Readiness | 0/2 | Not started | - |

@@ -12,8 +12,9 @@
     "migrate:content": "node scripts/migrate-source-content.mjs",
     "verify:static": "node scripts/verify-static-output.mjs",
     "verify:migration": "node scripts/verify-migration.mjs",
+    "verify:pages": "node scripts/verify-exhibition-pages.mjs",
     "test:visual": "npm run build && (npm run preview -- --host 127.0.0.1 > /tmp/recode-preview.log 2>&1 & PREVIEW_PID=$!; sleep 3; PLAYWRIGHT_BASE_URL=http://127.0.0.1:4321 node tests/phase1-shell.spec.mjs; STATUS=$?; kill $PREVIEW_PID; exit $STATUS)",
-    "verify": "npm run check && npm run build && npm run verify:static && npm run verify:migration && npm run test:visual"
+    "verify": "npm run check && npm run build && npm run verify:static && npm run verify:migration && npm run verify:pages && npm run test:visual"
   },
   "dependencies": {
     "@astrojs/check": "latest",
