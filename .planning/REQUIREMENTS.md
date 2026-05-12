@@ -49,11 +49,11 @@
 
 ### Quality
 
-- [ ] **QUAL-01**: Production build completes successfully.
-- [ ] **QUAL-02**: Built site contains no runtime references to source WordPress media URLs.
-- [ ] **QUAL-03**: Internal links from the start page to all exhibit pages work.
-- [ ] **QUAL-04**: Start page and representative exhibit pages render correctly on desktop and mobile viewports.
-- [ ] **QUAL-05**: Long German titles and migrated article content do not overflow or overlap on supported viewports.
+- [x] **QUAL-01**: Production build completes successfully.
+- [x] **QUAL-02**: Built site contains no runtime references to source WordPress media URLs.
+- [x] **QUAL-03**: Internal links from the start page to all exhibit pages work.
+- [x] **QUAL-04**: Start page and representative exhibit pages render correctly on desktop and mobile viewports.
+- [x] **QUAL-05**: Long German titles and migrated article content do not overflow or overlap on supported viewports.
 
 ## v2 Requirements
 
@@ -120,11 +120,11 @@ Which phases cover which requirements. Updated during roadmap creation.
 | EXH-17 | Phase 3 | Complete |
 | EXH-18 | Phase 3 | Complete |
 | EXH-19 | Phase 3 | Complete |
-| QUAL-01 | Phase 4 | Pending |
-| QUAL-02 | Phase 4 | Pending |
-| QUAL-03 | Phase 4 | Pending |
-| QUAL-04 | Phase 4 | Pending |
-| QUAL-05 | Phase 4 | Pending |
+| QUAL-01 | Phase 4 | Complete |
+| QUAL-02 | Phase 4 | Complete |
+| QUAL-03 | Phase 4 | Complete |
+| QUAL-04 | Phase 4 | Complete |
+| QUAL-05 | Phase 4 | Complete |
 
 **Coverage:**
 - v1 requirements: 35 total
