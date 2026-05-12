@@ -19,11 +19,11 @@
 
 ### Content Migration
 
-- [ ] **CONT-01**: Start page includes the migrated introduction content from the Recode.Remix.Design source page.
-- [ ] **CONT-02**: All source page images and media required by migrated content are copied into local project assets.
-- [ ] **CONT-03**: Migrated content references local media paths instead of `experimente.joachim-wedekind.de` media URLs.
-- [ ] **CONT-04**: External educational/source links from the original content are preserved where they provide context or program/code access.
-- [ ] **CONT-05**: The "500 Linien" source page is resolved from its query-string/preview URL and assigned a stable local exhibit route.
+- [x] **CONT-01**: Start page includes the migrated introduction content from the Recode.Remix.Design source page.
+- [x] **CONT-02**: All source page images and media required by migrated content are copied into local project assets.
+- [x] **CONT-03**: Migrated content references local media paths instead of `experimente.joachim-wedekind.de` media URLs.
+- [x] **CONT-04**: External educational/source links from the original content are preserved where they provide context or program/code access.
+- [x] **CONT-05**: The "500 Linien" source page is resolved from its query-string/preview URL and assigned a stable local exhibit route.
 
 ### Exhibit Pages
 
@@ -96,11 +96,11 @@ Which phases cover which requirements. Updated during roadmap creation.
 | VIS-01 | Phase 1 | Complete |
 | VIS-02 | Phase 1 | Complete |
 | VIS-03 | Phase 1 | Complete |
-| CONT-01 | Phase 2 | Pending |
-| CONT-02 | Phase 2 | Pending |
-| CONT-03 | Phase 2 | Pending |
-| CONT-04 | Phase 2 | Pending |
-| CONT-05 | Phase 2 | Pending |
+| CONT-01 | Phase 2 | Complete |
+| CONT-02 | Phase 2 | Complete |
+| CONT-03 | Phase 2 | Complete |
+| CONT-04 | Phase 2 | Complete |
+| CONT-05 | Phase 2 | Complete |
 | EXH-01 | Phase 3 | Pending |
 | EXH-02 | Phase 3 | Pending |
 | EXH-03 | Phase 3 | Pending |
