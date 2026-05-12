@@ -12,7 +12,7 @@ The v1 roadmap builds a static exhibition website from the outside in: first est
 
 Decimal phases appear between their surrounding integers in numeric order.
 
-- [ ] **Phase 1: Static Site Foundation and Visual System** - Create the Astro static site foundation and Computingeducation-style layout shell.
+- [x] **Phase 1: Static Site Foundation and Visual System** - Create the Astro static site foundation and Computingeducation-style layout shell. (completed 2026-05-12)
 - [ ] **Phase 2: Source Content and Asset Migration** - Import the exhibition and exhibit content, copy media locally, and remove runtime source-site media dependencies.
 - [ ] **Phase 3: Exhibition Pages and Navigation** - Build the start page, exhibit grid, 17 exhibit detail pages, and navigation flows.
 - [ ] **Phase 4: Verification and Deployment Readiness** - Verify build output, links, asset independence, responsive rendering, and gallery-domain readiness.
@@ -39,7 +39,7 @@ Plans:
 - [x] 01-02: Implement shared layout, header, footer, and global visual tokens.
 
 **Wave 3** *(blocked on Wave 2 completion)*
-- [ ] 01-03: Add baseline responsive shell pages and verify visual fit against Computingeducation.
+- [x] 01-03: Add baseline responsive shell pages and verify visual fit against Computingeducation.
 
 ### Phase 2: Source Content and Asset Migration
 **Goal**: All required source exhibition content and media are available locally and ready for page generation.
@@ -100,7 +100,7 @@ Phases execute in numeric order: 1 -> 2 -> 3 -> 4
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Static Site Foundation and Visual System | 2/3 | In Progress|  |
+| 1. Static Site Foundation and Visual System | 3/3 | Complete   | 2026-05-12 |
 | 2. Source Content and Asset Migration | 0/3 | Not started | - |
 | 3. Exhibition Pages and Navigation | 0/3 | Not started | - |
 | 4. Verification and Deployment Readiness | 0/2 | Not started | - |
