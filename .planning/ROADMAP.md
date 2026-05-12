@@ -32,8 +32,13 @@ Decimal phases appear between their surrounding integers in numeric order.
 **Plans**: 3 plans
 
 Plans:
+**Wave 1**
 - [ ] 01-01: Scaffold Astro static site, scripts, and deployment-friendly config.
+
+**Wave 2** *(blocked on Wave 1 completion)*
 - [ ] 01-02: Implement shared layout, header, footer, and global visual tokens.
+
+**Wave 3** *(blocked on Wave 2 completion)*
 - [ ] 01-03: Add baseline responsive shell pages and verify visual fit against Computingeducation.
 
 ### Phase 2: Source Content and Asset Migration
