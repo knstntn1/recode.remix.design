@@ -1,15 +1,52 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleContent from '../../components/ArticleContent.astro';
+import ExhibitNavigation from '../../components/ExhibitNavigation.astro';
+import manifestData from '../../data/exhibit-manifest.json';
+
+interface Exhibit {
+  order: number;
+  title: string;
+  slug: string;
+}
+
+interface ExhibitPage {
+  contentHtml: string;
+}
 
 export function getStaticPaths() {
-  return [{ params: { slug: 'platzhalter' } }];
+  const exhibitPages = import.meta.glob('../../data/exhibits/*.json', {
+    eager: true,
+    import: 'default',
+  });
+
+  return manifestData.exhibits.map((exhibit, index) => {
+    const page = exhibitPages[`../../data/exhibits/${exhibit.slug}.json`];
+    const previous = manifestData.exhibits[index - 1];
+    const next = manifestData.exhibits[index + 1];
+
+    return {
+      params: { slug: exhibit.slug },
+      props: { exhibit, page, previous, next },
+    };
+  });
 }
+
+const exhibit = Astro.props.exhibit as Exhibit;
+const page = Astro.props.page as ExhibitPage;
+const previous = Astro.props.previous as Exhibit | undefined;
+const next = Astro.props.next as Exhibit | undefined;
 ---
 
-<BaseLayout title="Exponat Platzhalter">
-  <section class="intro-surface surface" aria-labelledby="exhibit-title">
-    <h1 id="exhibit-title">Exponat Platzhalter</h1>
-    <p>Statische Ausstellungsseite im Aufbau.</p>
-    <p>Die Exponate und Medien werden in der nächsten Phase lokal migriert.</p>
-  </section>
+<BaseLayout title={exhibit.title} description={`Exponat ${exhibit.order} der Ausstellung Recode.Remix.Design.`}>
+  <article class="exhibit-page">
+    <header class="intro-surface surface exhibit-hero" aria-labelledby="exhibit-title">
+      <p class="eyebrow">Exponat {exhibit.order} von {manifestData.exhibits.length}</p>
+      <h1 id="exhibit-title">{exhibit.title}</h1>
+      <a class="text-link" href="/#exponate">Alle Exponate</a>
+    </header>
+
+    <ArticleContent contentHtml={page.contentHtml} />
+    <ExhibitNavigation previous={previous} next={next} />
+  </article>
 </BaseLayout>

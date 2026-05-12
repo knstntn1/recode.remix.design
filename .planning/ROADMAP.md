@@ -72,7 +72,7 @@ Plans:
 **Plans**: 3 plans
 
 Plans:
-- [ ] 03-01: Implement content-driven exhibit routes and detail page layout.
+- [x] 03-01: Implement content-driven exhibit routes and detail page layout.
 - [ ] 03-02: Build the exhibition start page and exhibit card grid with local previews.
 - [ ] 03-03: Add exhibit navigation, metadata, and content rendering polish.
 
@@ -102,5 +102,5 @@ Phases execute in numeric order: 1 -> 2 -> 3 -> 4
 |-------|----------------|--------|-----------|
 | 1. Static Site Foundation and Visual System | 3/3 | Complete    | 2026-05-12 |
 | 2. Source Content and Asset Migration | 3/3 | Complete    | 2026-05-12 |
-| 3. Exhibition Pages and Navigation | 0/3 | Not started | - |
+| 3. Exhibition Pages and Navigation | 1/3 | In Progress|  |
 | 4. Verification and Deployment Readiness | 0/2 | Not started | - |

@@ -1,0 +1,9 @@
+---
+interface Props {
+  contentHtml: string;
+}
+
+const { contentHtml } = Astro.props;
+---
+
+<div class="content-body" set:html={contentHtml} />

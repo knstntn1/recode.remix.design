@@ -1,0 +1,41 @@
+---
+interface ExhibitLink {
+  title: string;
+  slug: string;
+}
+
+interface Props {
+  previous?: ExhibitLink;
+  next?: ExhibitLink;
+}
+
+const { previous, next } = Astro.props;
+---
+
+<nav class="exhibit-nav" aria-label="Exponatnavigation">
+  <a class="exhibit-nav__overview" href="/#exponate">Zur Übersicht</a>
+  <div class="exhibit-nav__neighbors">
+    {previous ? (
+      <a class="exhibit-nav__link" href={`/exponate/${previous.slug}/`}>
+        <span>Vorheriges</span>
+        <strong>{previous.title}</strong>
+      </a>
+    ) : (
+      <span class="exhibit-nav__link exhibit-nav__link--disabled">
+        <span>Vorheriges</span>
+        <strong>Ende</strong>
+      </span>
+    )}
+    {next ? (
+      <a class="exhibit-nav__link exhibit-nav__link--next" href={`/exponate/${next.slug}/`}>
+        <span>Nächstes</span>
+        <strong>{next.title}</strong>
+      </a>
+    ) : (
+      <span class="exhibit-nav__link exhibit-nav__link--disabled exhibit-nav__link--next">
+        <span>Nächstes</span>
+        <strong>Ende</strong>
+      </span>
+    )}
+  </div>
+</nav>
