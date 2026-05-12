@@ -90,47 +90,47 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| FOUND-01 | TBD | Pending |
-| FOUND-02 | TBD | Pending |
-| FOUND-03 | TBD | Pending |
-| VIS-01 | TBD | Pending |
-| VIS-02 | TBD | Pending |
-| VIS-03 | TBD | Pending |
-| CONT-01 | TBD | Pending |
-| CONT-02 | TBD | Pending |
-| CONT-03 | TBD | Pending |
-| CONT-04 | TBD | Pending |
-| CONT-05 | TBD | Pending |
-| EXH-01 | TBD | Pending |
-| EXH-02 | TBD | Pending |
-| EXH-03 | TBD | Pending |
-| EXH-04 | TBD | Pending |
-| EXH-05 | TBD | Pending |
-| EXH-06 | TBD | Pending |
-| EXH-07 | TBD | Pending |
-| EXH-08 | TBD | Pending |
-| EXH-09 | TBD | Pending |
-| EXH-10 | TBD | Pending |
-| EXH-11 | TBD | Pending |
-| EXH-12 | TBD | Pending |
-| EXH-13 | TBD | Pending |
-| EXH-14 | TBD | Pending |
-| EXH-15 | TBD | Pending |
-| EXH-16 | TBD | Pending |
-| EXH-17 | TBD | Pending |
-| EXH-18 | TBD | Pending |
-| EXH-19 | TBD | Pending |
-| QUAL-01 | TBD | Pending |
-| QUAL-02 | TBD | Pending |
-| QUAL-03 | TBD | Pending |
-| QUAL-04 | TBD | Pending |
-| QUAL-05 | TBD | Pending |
+| FOUND-01 | Phase 1 | Pending |
+| FOUND-02 | Phase 1 | Pending |
+| FOUND-03 | Phase 1 | Pending |
+| VIS-01 | Phase 1 | Pending |
+| VIS-02 | Phase 1 | Pending |
+| VIS-03 | Phase 1 | Pending |
+| CONT-01 | Phase 2 | Pending |
+| CONT-02 | Phase 2 | Pending |
+| CONT-03 | Phase 2 | Pending |
+| CONT-04 | Phase 2 | Pending |
+| CONT-05 | Phase 2 | Pending |
+| EXH-01 | Phase 3 | Pending |
+| EXH-02 | Phase 3 | Pending |
+| EXH-03 | Phase 3 | Pending |
+| EXH-04 | Phase 3 | Pending |
+| EXH-05 | Phase 3 | Pending |
+| EXH-06 | Phase 3 | Pending |
+| EXH-07 | Phase 3 | Pending |
+| EXH-08 | Phase 3 | Pending |
+| EXH-09 | Phase 3 | Pending |
+| EXH-10 | Phase 3 | Pending |
+| EXH-11 | Phase 3 | Pending |
+| EXH-12 | Phase 3 | Pending |
+| EXH-13 | Phase 3 | Pending |
+| EXH-14 | Phase 3 | Pending |
+| EXH-15 | Phase 3 | Pending |
+| EXH-16 | Phase 3 | Pending |
+| EXH-17 | Phase 3 | Pending |
+| EXH-18 | Phase 3 | Pending |
+| EXH-19 | Phase 3 | Pending |
+| QUAL-01 | Phase 4 | Pending |
+| QUAL-02 | Phase 4 | Pending |
+| QUAL-03 | Phase 4 | Pending |
+| QUAL-04 | Phase 4 | Pending |
+| QUAL-05 | Phase 4 | Pending |
 
 **Coverage:**
 - v1 requirements: 35 total
-- Mapped to phases: 0
-- Unmapped: 35
+- Mapped to phases: 35
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-05-12*
-*Last updated: 2026-05-12 after initial definition*
+*Last updated: 2026-05-12 after roadmap creation*
