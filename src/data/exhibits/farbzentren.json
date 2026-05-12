@@ -1,0 +1,24 @@
+{
+  "title": "Farbzentren",
+  "slug": "farbzentren",
+  "sourceUrl": "http://experimente.joachim-wedekind.de/addi-farbzentren/",
+  "sourcePageId": 729,
+  "sourceSlug": "addi-farbzentren",
+  "sourceTitle": "addi-Farbzentren",
+  "contentHtml": "<html><head></head><body><p style=\"text-align: center;\"><a href=\"http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2026/03/farbzentren.jpg\"><img loading=\"lazy\" decoding=\"async\" class=\"wp-image-2410 aligncenter\" src=\"http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2026/03/farbzentren.jpg\" alt=\"\" width=\"374\" height=\"500\"></a><strong>(Farb) Zentren: Eine Hommage à Hans Korneder</strong></p>\n<p>Beim ersten Wettbewerb für Computergrafik, 1979 veranstaltet von der Gesellschaft für Computergrafik und Computerkunst e.V., wurde eine Bildserie <em>Zentren</em> von Hans Korneder mit dem ersten Preis ausgezeichnet. Seine Arbeit entstand im Rahmen der Entwicklung des Grafiksystems <a href=\"https://recodeart.wordpress.com/coding/\" target=\"_blank\" rel=\"noopener\">SNE COMP ART</a>. Die Bilder seiner Serie bestehen aus einem Netz konzentrischer verschachtelter Rechtecke um einen Mittelpunkt.</p>\n<p><em>Was sehen wir?</em> Die Bilder der Serie <em>Zentren</em> zeigen nicht nur Verschiebungen der Mittelpunkte innerhalb rechtwinkliger Vierecke, sondern zusätzlich die zufallsgesteuerte Verschiebung der Eckpunkte in horizontaler und vertikaler Richtung.&nbsp;Es sind natürlich mehrere Wege denkbar, jeweils die inneren Lininen zu berechnen und zu zeichnen. Die Lösung im Programm <em>farbzentren</em> sieht vor, zunächst die Eckpunkte aller Vierecke in einer Liste zu speichern. Daraus&nbsp;kann für jedes Viereck im Raster der Mittelpunkt ermittelt werden und daran ausgerichtet die inneren Linien&nbsp;errechnet und gezeichnet werden.</p>\n<p><iframe loading=\"lazy\" title=\"farbzentren Snap! Project\" src=\"https://snap.berkeley.edu/embed?projectname=farbzentren&amp;username=jowede&amp;showTitle=true&amp;showAuthor=true&amp;editButton=true&amp;pauseButton=true\" width=\"600\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><span style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" data-mce-type=\"bookmark\" class=\"mce_SELRES_start\">﻿</span> </iframe><br>\n<a href=\"http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2025/09/zumprogramm.png\"><img loading=\"lazy\" decoding=\"async\" class=\"alignleft wp-image-2195\" src=\"http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2025/09/zumprogramm.png\" alt=\"\" width=\"30\" height=\"20\"></a>Durch Klick auf dieses Symbol in der Kopfleiste der Programme kommen Sie zum Programm-Code und können dort eigene Kennwerte für das Bild vorgeben.</p>\n</body></html>",
+  "media": [],
+  "externalLinks": [
+    {
+      "href": "http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2026/03/farbzentren.jpg",
+      "text": ""
+    },
+    {
+      "href": "https://recodeart.wordpress.com/coding/",
+      "text": "SNE COMP ART"
+    },
+    {
+      "href": "http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2025/09/zumprogramm.png",
+      "text": ""
+    }
+  ]
+}

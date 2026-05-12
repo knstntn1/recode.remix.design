@@ -1,0 +1,40 @@
+{
+  "title": "Inequality",
+  "slug": "inequality",
+  "sourceUrl": "http://experimente.joachim-wedekind.de/addi-optical-effect-of-inequality/",
+  "sourcePageId": 689,
+  "sourceSlug": "addi-optical-effect-of-inequality",
+  "sourceTitle": "addi-Optical Effect of Inequality",
+  "contentHtml": "<html><head></head><body><p class=\"p1\" style=\"text-align: center;\"><strong><a href=\"http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2026/03/komura-beide.png\"><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter wp-image-2403\" src=\"http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2026/03/komura-beide.png\" alt=\"\" width=\"500\" height=\"250\"></a>Optical Effect of Inequality: Eine Hommage à Masao Komura</strong></p>\n<p style=\"text-align: center;\"><em>Original recoded (links); Remix Rechtecke (rechts)</em></p>\n<p class=\"p1\">Der Japaner <a href=\"http://dada.compart-bremen.de/item/agent/246\" target=\"_blank\" rel=\"noopener\"><span class=\"s1\">Masao Komura</span></a> (geb. 1943 in Tokio) war Gründer der <a href=\"http://dada.compart-bremen.de/item/collective/9\" target=\"_blank\" rel=\"noopener\"><span class=\"s1\">Computer Technic&nbsp;</span><span class=\"s1\">Group</span> (CTG)</a>, deren Spektrum von geometrisch-abstrakten Werken bis zu gegenständlichen Arbeiten reichte. Berühmt sind ihre figurativen Arbeiten, bei denen Figuren ineinander transformiert werden, z.B. <a href=\"https://collections.vam.ac.uk/item/O1321898/return-to-square-print-computer-technique-group/\" target=\"_blank\" rel=\"noopener\">Return to Square</a>, die Metamorphose eines Quadrats&nbsp;in einen Frauenkopf oder <a href=\"https://zkm.de/en/artworks/running-cola-is-africa\" target=\"_blank\" rel=\"noopener\">Running Cola is Africa</a>, bei der ein Läufer in eine Cola-Flasche&nbsp;und diese dann in einen Afrika-Umriss verwandelt wird – etwas, was wir heute als <span class=\"s1\">Mor</span><span class=\"s1\">phing</span> bezeichnen würden.</p>\n<p class=\"p1\">Komuras Arbeit mit dem Titel <a href=\"http://dada.compart-bremen.de/item/artwork/859\" target=\"_blank\" rel=\"noopener\">Optical Effect of Inequality</a> nutzt das mathematische Symbol &gt; (größer als) zur Erzeugung eines grafischen Musters. Das Recoding führt zu dem Bild links, das weitgehend dem Vorbild entspricht (im Original Weiß auf Schwarz).</p>\n<p class=\"p1\"><em>Was sehen wir? </em>In jeder Zeile wird das Symbol von Anfang bis zum Ende sukzessive bis zu 360 Grad gedreht. Außerdem wird in jeder Zeile das Symbol von Feld zu Feld vergrößert und ab einem festzulegenden Feld wieder verkleinert. Die Drehung sowie Vergößerung bzw. Verkleinerung gilt auch für jede Spalte. Wird das Zeichnen des Symbols in einen eigenständigen Block verlagert, kann dieser bei Bedarf beliebig verändert oder ersetzt werden. Das können einfache Striche sein, aber auch Vielecke (im <em>Remix</em> rechts sind es Rechtecke) und deren farbig gefüllte Pendants.</p>\n<p><iframe loading=\"lazy\" title=\"hommage komura Snap! Project\" src=\"https://snap.berkeley.edu/embed?projectname=hommage%20komura&amp;username=jowede&amp;showTitle=true&amp;showAuthor=true&amp;editButton=true&amp;pauseButton=true\" width=\"600\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><span style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" data-mce-type=\"bookmark\" class=\"mce_SELRES_start\">﻿</span> </iframe></p>\n<p><iframe loading=\"lazy\" title=\"hommage komura rechtecke Snap! Project\" src=\"https://snap.berkeley.edu/embed?projectname=hommage%20komura%20rechtecke&amp;username=jowede&amp;showTitle=true&amp;showAuthor=true&amp;editButton=true&amp;pauseButton=true\" width=\"600\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"> </iframe><br>\n<a href=\"http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2025/09/zumprogramm.png\"><img loading=\"lazy\" decoding=\"async\" class=\"alignleft wp-image-2195\" src=\"http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2025/09/zumprogramm.png\" alt=\"\" width=\"30\" height=\"20\"></a>Durch Klick auf dieses Symbol in der Kopfleiste der Programme kommen Sie zum Programm-Code und können dort eigene Kennwerte für das Bild vorgeben.</p>\n</body></html>",
+  "media": [],
+  "externalLinks": [
+    {
+      "href": "http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2026/03/komura-beide.png",
+      "text": ""
+    },
+    {
+      "href": "http://dada.compart-bremen.de/item/agent/246",
+      "text": "Masao Komura"
+    },
+    {
+      "href": "http://dada.compart-bremen.de/item/collective/9",
+      "text": "Computer Technic Group (CTG)"
+    },
+    {
+      "href": "https://collections.vam.ac.uk/item/O1321898/return-to-square-print-computer-technique-group/",
+      "text": "Return to Square"
+    },
+    {
+      "href": "https://zkm.de/en/artworks/running-cola-is-africa",
+      "text": "Running Cola is Africa"
+    },
+    {
+      "href": "http://dada.compart-bremen.de/item/artwork/859",
+      "text": "Optical Effect of Inequality"
+    },
+    {
+      "href": "http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2025/09/zumprogramm.png",
+      "text": ""
+    }
+  ]
+}

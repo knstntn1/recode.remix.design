@@ -1,0 +1,30 @@
+{
+  "title": "Kraftlinien",
+  "slug": "kraftlinien",
+  "sourceUrl": "http://experimente.joachim-wedekind.de/addi-kraftlinien/",
+  "sourcePageId": 671,
+  "sourceSlug": "addi-kraftlinien",
+  "sourceTitle": "addi-Kraftlinien",
+  "contentHtml": "<html><head></head><body><p style=\"text-align: center;\"><strong><a href=\"/assets/recode-remix-design/sites/10/2026/03/Kraftlinien.jpg\"><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-673 aligncenter\" src=\"/assets/recode-remix-design/sites/10/2026/03/Kraftlinien-213x300.jpg\" alt=\"\" width=\"213\" height=\"300\" srcset=\"/assets/recode-remix-design/sites/10/2026/03/Kraftlinien-213x300.jpg 213w, /assets/recode-remix-design/sites/10/2026/03/Kraftlinien-560x788.jpg 560w, /assets/recode-remix-design/sites/10/2026/03/Kraftlinien.jpg 600w\" sizes=\"auto, (max-width: 213px) 100vw, 213px\"></a>Kraftlinien</strong></p>\n<p style=\"text-align: center;\"><em>Joachim Wedekind, 2019/2026</em></p>\n<p><em>Wenn zwei Kräfte gleichzeitig ihre Wirkungen auf den Punkt ausüben, und zwar so, daß eine Kraft fortlaufend und stets in demselben Maße die andere an Druck überbietet, so entsteht eine gebogene Linie […]. </em><br>\n<em>Eine komplizierte Gebogene oder Wellenartige kann: 1. aus geometrischen Zirkelteilen, oder 2. aus freien Teilen, oder 3. aus verschiedenen Kombinationen der beiden bestehen. Diese drei Arten decken alle Formen der Gebogenen. </em>(Kandinsky, Punkt und Linie zu Fläche, 1926, S. 85 &amp; S. 92)</p>\n<p class=\"p1\">In einem Projekt <a href=\"http://digitalart.joachim-wedekind.de/werk-2-generative-kunst/\">Punkt und Linie zu Fläche</a> befasste sich Joachim Wedekind (zusammen mit Andreas Meier) – angeregt durch die Schriften von Kandinsky – jeweils mit grafischen Zeichen und Formen. Es war der Versuch die&nbsp;Ideen Kandinskys iim Zeitalter der Digitaltechnik weiterzuführen.</p>\n<p class=\"p1\">Punkte, Linien und Flächen in der Algorithmischen Kunst können direkt auf seine Überlegungen und Beispiele zurückgeführt werden. Mit dem Computer können die gleichen Grundelemente verwendet werden, auf die sich Kandinsky in seiner Theorie bezieht. Eine Parallele ergibt sich schon allein dadurch, dass im Digitalen der Pixel das digitale Gegenstück zum analogen Punkt darstellt. Hinzu kommt, dass sich mit der Verwendung digitaler Endgeräte eine frappierende Parallele zu Kandinsky beim Übergang vom Punkt zur Linie (und daran anschließend auch zur Fläche) ergibt: Seine Charakterisierung „<em>Die Linie ist ein Punkt in Bewegung“</em> ist genau dann der Fall, wenn&nbsp;Plotter oder Malroboter, gesteuert von den Algorithmen, ihre Spuren&nbsp;auf einem Malgrund hinterlassen.</p>\n<p><em>Was sehen wir?</em> Gekrümmte Linien entstehen nach Kandinsky durch abwechselnde Kräfte, die auf einen wandernden Punkt einwirken. Im Bild <em>Kraftlinien</em> wird dies dadurch erreicht, dass sich kurze gerade Stücke (ohne Krafteinwirkung) mit gebogenen Abschnitten abwechseln, bei denen der Punkt auf einen Kreisbogen gezogen wird. Entsprechend werden im Programm für eine wählbare Zahl von Punkten, die eine bestimmte Anzahl von Schritten vollziehen, gerade und gebogene Teilstücke aneinander gesetzt. Die Bildstruktur kann durch variable Liniendicke und Farben, sowie die Länge der geraden Abschnitte und der Krümmung der gebogenen Abschnitte beeinflusst werden.</p>\n<p><iframe loading=\"lazy\" title=\"kraftlinien 30 10 Snap! Project\" src=\"https://snap.berkeley.edu/embed?projectname=kraftlinien%2030%2010&amp;username=jowede&amp;showTitle=true&amp;showAuthor=true&amp;editButton=true&amp;pauseButton=true\" width=\"600\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><span style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" data-mce-type=\"bookmark\" class=\"mce_SELRES_start\">﻿</span> </iframe></p>\n<p><a href=\"http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2025/09/zumprogramm.png\"><img loading=\"lazy\" decoding=\"async\" class=\"alignleft wp-image-2195\" src=\"http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2025/09/zumprogramm.png\" alt=\"\" width=\"30\" height=\"20\"></a>Durch Klick auf dieses Symbol in der Kopfleiste des Programms kommen Sie zum Programm-Code und können dort eigene Kennwerte für das Bild vorgeben.</p>\n</body></html>",
+  "media": [
+    {
+      "localPath": "/assets/recode-remix-design/sites/10/2026/03/Kraftlinien.jpg"
+    },
+    {
+      "localPath": "/assets/recode-remix-design/sites/10/2026/03/Kraftlinien-213x300.jpg"
+    },
+    {
+      "localPath": "/assets/recode-remix-design/sites/10/2026/03/Kraftlinien-560x788.jpg"
+    }
+  ],
+  "externalLinks": [
+    {
+      "href": "http://digitalart.joachim-wedekind.de/werk-2-generative-kunst/",
+      "text": "Punkt und Linie zu Fläche"
+    },
+    {
+      "href": "http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2025/09/zumprogramm.png",
+      "text": ""
+    }
+  ]
+}

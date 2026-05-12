@@ -1,0 +1,55 @@
+{
+  "title": "Fraktale",
+  "slug": "fraktale",
+  "sourceUrl": "http://experimente.joachim-wedekind.de/addi-fraktale/",
+  "sourcePageId": 660,
+  "sourceSlug": "addi-fraktale",
+  "sourceTitle": "addi-Fraktale",
+  "contentHtml": "<html><head></head><body><p style=\"text-align: center;\"><strong>Fraktalkunst</strong></p>\n<p style=\"text-align: center;\"><em><a href=\"/assets/recode-remix-design/sites/10/2026/03/fraktale-1.png\"><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter wp-image-662\" src=\"/assets/recode-remix-design/sites/10/2026/03/fraktale-1-300x171.png\" alt=\"\" width=\"600\" height=\"341\" srcset=\"/assets/recode-remix-design/sites/10/2026/03/fraktale-1-300x171.png 300w, /assets/recode-remix-design/sites/10/2026/03/fraktale-1-1024x582.png 1024w, /assets/recode-remix-design/sites/10/2026/03/fraktale-1-768x437.png 768w, /assets/recode-remix-design/sites/10/2026/03/fraktale-1-720x410.png 720w, /assets/recode-remix-design/sites/10/2026/03/fraktale-1-560x319.png 560w, /assets/recode-remix-design/sites/10/2026/03/fraktale-1.png 1526w\" sizes=\"auto, (max-width: 600px) 100vw, 600px\"></a>Mira-Gumowski Attraktor (links); Kaneko Attraktor (rechts)</em></p>\n<p class=\"p1\">Es gibt eine lange Tradition der programmtechnischen Umsetzung mathematischer Modelle und Prinzipien, um auf diese Weise ästhetische Objekte zu erzeugen. Damit gelingt eine fruchtbare Synthese von Wissenschaft und Kunst.Das bekannteste Beispiel sind vermutlich die <a href=\"https://de.wikipedia.org/wiki/Fraktal\" target=\"_blank\" rel=\"noopener\">Fraktale</a> (die es in unterschiedlichen Ausprägungsformen gibt, wie die <a href=\"https://de.wikipedia.org/wiki/Mandelbrot-Menge\" target=\"_blank\" rel=\"noopener\">Apfelmännchen</a>, <a href=\"https://de.wikipedia.org/wiki/Julia-Menge\" target=\"_blank\" rel=\"noopener\">Julia-Mengen</a>, <a href=\"https://de.wikipedia.org/wiki/Lindenmayer-System\" target=\"_blank\" rel=\"noopener\">Lindenmayer-Systeme</a> und einige mehr). Manche bezeichnen das auch als <a href=\"https://de.wikipedia.org/wiki/Fraktalkunst\" target=\"_blank\" rel=\"noopener\"><span class=\"s2\">Fraktalkunst</span></a>.</p>\n<p class=\"p1\">Vergleichbare Bilder &nbsp;lassen sich auch mit Snap! erzeugen. Als Anregung und Beispiel dient hier der <a href=\"https://kantel.github.io/posts/2025061201_mira_abbildung/\">Mira-Gumowski-Attraktor</a>, der sich mit zwei iterativen Gleichungen darstellen lässt&nbsp; Er ist damit typisch für die rechnerische Behandlung dynamischer Systeme, bei denen die errechneten Werte als Ausgangswerte des jeweils nächsten Rechenschrittes genommen werden. Das ist ein typischer Fall für eine simple Wiederholungsschleife. Durch leichte Variation der Kennwerte lassen sich daraus eine verblüffende Zahl sehr unterschiedlicher Muster erzeugen.&nbsp;Das zweite Beispiel zeigt den Kaneko Attraktor, für den die gleichen Merkmale gelten.</p>\n<p><iframe loading=\"lazy\" title=\"mira-gumowski Snap! Project\" src=\"https://snap.berkeley.edu/embed?projectname=mira%2dgumowski&amp;username=jowede&amp;showTitle=true&amp;showAuthor=true&amp;editButton=true&amp;pauseButton=true\" width=\"600\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"> </iframe><br>\n<iframe loading=\"lazy\" title=\"kaneko Snap! Project\" src=\"https://snap.berkeley.edu/embed?projectname=kaneko&amp;username=jowede&amp;showTitle=true&amp;showAuthor=true&amp;editButton=true&amp;pauseButton=true\" width=\"600\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><span style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" data-mce-type=\"bookmark\" class=\"mce_SELRES_start\">﻿</span> </iframe></p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignleft wp-image-2195\" src=\"http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2025/09/zumprogramm.png\" alt=\"\" width=\"30\" height=\"20\">Durch Klick auf dieses Symbol in der Kopfleiste der Programme kommen Sie zum Programm-Code und können dort eigene Kennwerte für die Bilder vorgeben.</p>\n</body></html>",
+  "media": [
+    {
+      "localPath": "/assets/recode-remix-design/sites/10/2026/03/fraktale-1.png"
+    },
+    {
+      "localPath": "/assets/recode-remix-design/sites/10/2026/03/fraktale-1-300x171.png"
+    },
+    {
+      "localPath": "/assets/recode-remix-design/sites/10/2026/03/fraktale-1-1024x582.png"
+    },
+    {
+      "localPath": "/assets/recode-remix-design/sites/10/2026/03/fraktale-1-768x437.png"
+    },
+    {
+      "localPath": "/assets/recode-remix-design/sites/10/2026/03/fraktale-1-720x410.png"
+    },
+    {
+      "localPath": "/assets/recode-remix-design/sites/10/2026/03/fraktale-1-560x319.png"
+    }
+  ],
+  "externalLinks": [
+    {
+      "href": "https://de.wikipedia.org/wiki/Fraktal",
+      "text": "Fraktale"
+    },
+    {
+      "href": "https://de.wikipedia.org/wiki/Mandelbrot-Menge",
+      "text": "Apfelmännchen"
+    },
+    {
+      "href": "https://de.wikipedia.org/wiki/Julia-Menge",
+      "text": "Julia-Mengen"
+    },
+    {
+      "href": "https://de.wikipedia.org/wiki/Lindenmayer-System",
+      "text": "Lindenmayer-Systeme"
+    },
+    {
+      "href": "https://de.wikipedia.org/wiki/Fraktalkunst",
+      "text": "Fraktalkunst"
+    },
+    {
+      "href": "https://kantel.github.io/posts/2025061201_mira_abbildung/",
+      "text": "Mira-Gumowski-Attraktor"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Quadrate",
+  "slug": "quadrate",
+  "sourceUrl": "http://experimente.joachim-wedekind.de/addi-quadrate/",
+  "sourcePageId": 691,
+  "sourceSlug": "addi-quadrate",
+  "sourceTitle": "addi-Quadrate",
+  "contentHtml": "<html><head></head><body><p style=\"text-align: center;\"><strong><a href=\"/assets/recode-remix-design/sites/10/2026/03/quadrate.png\"><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter wp-image-693\" src=\"/assets/recode-remix-design/sites/10/2026/03/quadrate-300x175.png\" alt=\"\" width=\"500\" height=\"291\" srcset=\"/assets/recode-remix-design/sites/10/2026/03/quadrate-300x175.png 300w, /assets/recode-remix-design/sites/10/2026/03/quadrate-720x420.png 720w, /assets/recode-remix-design/sites/10/2026/03/quadrate-560x326.png 560w, /assets/recode-remix-design/sites/10/2026/03/quadrate.png 750w\" sizes=\"auto, (max-width: 500px) 100vw, 500px\"></a>Ein Prozent (Un)Ordnungen: Eine Hommage à Vera Molnar (links)<br>\nQuadrate: Eine Hommage à Herbert W. Franke (rechts)</strong></p>\n<p class=\"p1\">Unter den Pionieren der Computerkunst nimmt <a href=\"https://de.wikipedia.org/wiki/Vera_Molnár\" target=\"_blank\" rel=\"noopener\"><span class=\"s1\">Vera Molnar</span> </a>(1924 – 2023) in mehrfacher Hinsicht eine Sonderstellung ein. Zunächst ist sie eine der ganz wenigen Frauen, die sich in dieser Kunstrichtung profiliert haben. Vor allem aber ist sie wohl die erste ausgebildete Künstlerin gewesen, die sich den Computer für ihre Kunst erschlossen hat. Als Malerin hatte sie von Beginn an eine große Affinität zur Konkreten Kunst, was sich in einer frühen Systematisierung und Reduktion ihrer Darstellungsmittel äußerte. Ihre Arbeiten sind gegenstandslos und geometrisch angelegt. Sie gehörte 1960, u.a. zusammmen mit François Morellet, zu den Gründungsmitgliedern der <a href=\"https://de.wikipedia.org/wiki/Groupe_de_Recherche_d%E2%80%99Art_Visuel\" target=\"_blank\" rel=\"noopener\"><span class=\"s1\">Groupe de&nbsp;</span><span class=\"s1\">Recherche d’Art Visuel (GRAV)</span></a>. Deren Experimente mit Symmetrie/Asymmetrie,&nbsp;Wiederholungen und Zufallseinflüssen erlaubten ihr, eine neue Bildsprache zu entwickeln.</p>\n<p class=\"p1\">Ihre Versuche einer strengen Systematisierung führten sie zum Prinzip der <em>machine imaginaire</em>:</p>\n<p class=\"p1\"><em>„Ich stellte mir vor, ich hätte einen Computer. Ich entwarf ein Programm und dann, Schritt für&nbsp;Schritt, realisierte ich einfache, begrenzte Serien, die aber in sich abgeschlossen waren. […] Ich dachte mir damals, dass die Verbindung von einer strengen Systematik bei gleichzeitiger Freiheit Kunst hervorbringen könnte.“</em> (Molnar, 1990, S. 16 f.)</p>\n<p class=\"p1\"><em>Was sehen wir?</em> Ihre Bildserie <em>(Un)Ordnungen</em> (im Original quadratisch) legt eine Matrix zugrunde, in deren Feldern zufallsgesteuert goße Quadrate (jeweils dunkel gefärbt) zentriert eingezeichnet werden. Ebenfalls zufallsgesteuert werden dann zusätzlich jeweils horizontal bzw. vertikal leicht versetzt kleinere Quadrate in weiteren Farbvarianten gezeichnet. Die Umsetzung kann deshalb leicht in einer Doppelschleife erfolgen.</p>\n<p><iframe loading=\"lazy\" title=\"Molnar1ProzentUnordnungen Snap! Project\" src=\"https://snap.berkeley.edu/embed?projectname=Molnar1ProzentUnordnungen&amp;username=jowede&amp;showTitle=true&amp;showAuthor=true&amp;editButton=true&amp;pauseButton=true\" width=\"600\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><span style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" data-mce-type=\"bookmark\" class=\"mce_SELRES_start\">﻿</span> </iframe></p>\n<p class=\"p1\">Die Vorlage für das zweite Bild <em>Quadrate</em> stammt von <a href=\"https://de.wikipedia.org/wiki/Herbert_W._Franke\" target=\"_blank\" rel=\"noopener\">Herbert W. Franke</a> (1927 – 2022). Franke hat mit unterschiedlichsten Methoden, Geräten und Programmen gearbeitet. Er hat angefangen mit Pendeloszillogrammen, sich mit algebraischen Kurven höherer Ordnung beschäftigt, aber er hat auch bereits interaktive räumliche Projektionen entwickelt. Daneben hat er mehrere Bücher zur frühen Computerkunst herausgegeben.</p>\n<p class=\"p1\"><em>So arbeitet das Programm:</em> Sein Bild <em>Quadrate</em> findet sich in verschiedenen Quellen in unterschiedlichen (Farb-) Varianten. Für das Recoding wird hier eine Version mit den Farben Orange, Rot und Schwarz. verwendet. Die Erzeugung dieses und vergleichbarer Bilder ist einfach mit mehreren Wiederholungsschleifen für die jeweils gleich großen und gleichfarbigen Quadrate möglich. Dem Vorbild folgend sind es im konkreten Beispiel 400 kleine Quadrate (rot), 120 mittelgroße Quadrate (orange) und 4 große Quadrate (schwarz).</p>\n<p class=\"p1\"><em>Anregung:</em> Von Franke selbst gibt es strukturell gleichartige Bildversionen, bei denen die Quadrate&nbsp;durch Kreise ersetzt sind. Dieses Remixing seines eigenen Bildes kann erreicht werden, indem statt der&nbsp;Prozedur <em>quadrat</em> eine allgemeinere Prozedur zum Zeichnen beliebiger Vielecke verwendet wird, oder, um das Remixing eine Stufe weiter zu treiben, indem gefüllte Vielecke gezeichnet werden. Ebenso leicht ist es dann, davon weitere Farbvarianten zu erstellen.</p>\n<p><iframe loading=\"lazy\" title=\"Franke Quadrate Snap! Project\" src=\"https://snap.berkeley.edu/embed?projectname=Franke%20Quadrate&amp;username=jowede&amp;showTitle=true&amp;showAuthor=true&amp;editButton=true&amp;pauseButton=true\" width=\"600\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><span style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" data-mce-type=\"bookmark\" class=\"mce_SELRES_start\">﻿</span> </iframe></p>\n<p><a href=\"http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2025/09/zumprogramm.png\"><img loading=\"lazy\" decoding=\"async\" class=\"alignleft wp-image-2195\" src=\"http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2025/09/zumprogramm.png\" alt=\"\" width=\"30\" height=\"20\"></a>Durch Klick auf dieses Symbol in der Kopfleiste der Programme kommen Sie zum Programm-Code und können dort eigene Kennwerte für das Bild vorgeben.</p>\n</body></html>",
+  "media": [
+    {
+      "localPath": "/assets/recode-remix-design/sites/10/2026/03/quadrate.png"
+    },
+    {
+      "localPath": "/assets/recode-remix-design/sites/10/2026/03/quadrate-300x175.png"
+    },
+    {
+      "localPath": "/assets/recode-remix-design/sites/10/2026/03/quadrate-720x420.png"
+    },
+    {
+      "localPath": "/assets/recode-remix-design/sites/10/2026/03/quadrate-560x326.png"
+    }
+  ],
+  "externalLinks": [
+    {
+      "href": "https://de.wikipedia.org/wiki/Vera_Moln%C3%A1r",
+      "text": "Vera Molnar"
+    },
+    {
+      "href": "https://de.wikipedia.org/wiki/Groupe_de_Recherche_d%E2%80%99Art_Visuel",
+      "text": "Groupe de Recherche d’Art Visuel (GRAV)"
+    },
+    {
+      "href": "https://de.wikipedia.org/wiki/Herbert_W._Franke",
+      "text": "Herbert W. Franke"
+    },
+    {
+      "href": "http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2025/09/zumprogramm.png",
+      "text": ""
+    }
+  ]
+}

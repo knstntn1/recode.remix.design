@@ -1,0 +1,28 @@
+{
+  "title": "Komputerstrukturen",
+  "slug": "komputerstrukturen",
+  "sourceUrl": "http://experimente.joachim-wedekind.de/addi-komputerstrukturen/",
+  "sourcePageId": 752,
+  "sourceSlug": "addi-komputerstrukturen",
+  "sourceTitle": "addi-Komputerstrukturen",
+  "contentHtml": "<html><head></head><body><p class=\"p1\" style=\"text-align: center;\"><strong><a href=\"http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2026/04/komputerstrukturen.png\"><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter wp-image-2449\" src=\"http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2026/04/komputerstrukturen.png\" alt=\"\" width=\"284\" height=\"400\"></a>Komputerstrukturen: Eine Hommage à Peter Struycken</strong><br>\n<em>Remixing Joachim Wedekind 2017</em></p>\n<p class=\"p1\">Das Bild <em>Komputerstrukturen</em> greift eine Vorlage von <a href=\"https://de.wikipedia.org/wiki/Peter_Struycken\" target=\"_blank\" rel=\"noopener\"><span class=\"s1\">Peter&nbsp;</span><span class=\"s1\">Struycken</span></a> auf. Der Niederländer Struycken hat sich in seinem Werk intensiv und methodisch mit dem Verhältnis von Formen und Farben auseinandergesetzt, seit 1969 mit dem Computer als wichtigem Hilfsmittel. Besonders bekannt geworden ist sein Porträt von Königin Beatrix, die er 1981 für eine Briefmarkenserie der PostNL als Pixelgrafik („digitaler Pointillismus“) in bunten Punkten darstellte.</p>\n<p class=\"p1\">Für seine Bildserie <em>Komputerstrukturen</em> hat Struycken ein Algol-Programm <a href=\"https://www.iwriteiam.nl/PS_OSTRC.html\" target=\"_blank\" rel=\"noopener\">OSTRC</a> von Stan Tempelaars verwandt, mit dem er flexibel Punktmuster erzeugen und untersuchen&nbsp;konnte. Er verteilte dabei schwarze, viereckige Punkte zufällig in einem Rasterfeld. Die&nbsp;Abweichungen von reinen Gleichverteilungen erreichte er durch den Einsatz von gewichtetem Zufall. Beispielsweise kann die Eintrittswahrscheinlichkeit eines Ereignisses&nbsp;linear von 1 auf 0 abfallen (linearer Abfall) oder zwischen 0 und 1 normal verteilt sein&nbsp;(Glockentyp).</p>\n<p class=\"p1\"><em>Was sehen wir?</em> Das Ausgangsmaterial bei Struycken sind zunächst gleichverteilte schwarze Punkte in einem 50*50-Raster. Varianten davon erhält er durch gewichteten Zufall. Das <em>Remixing</em> im 60*80 Raster verwendet dafür horizontal eine Dreiecksfunktion und vertikal einen linearen Abfall von unten nach oben. Diese Variante&nbsp; der <em>Komputerstrukturen</em> wird kombiniert mit farbigen Punkten.</p>\n<p style=\"text-align: center;\"><iframe loading=\"lazy\" title=\"komputerstrukturen Snap! Project\" src=\"https://snap.berkeley.edu/embed?projectname=komputerstrukturen&amp;username=jowede&amp;showTitle=true&amp;showAuthor=true&amp;editButton=true&amp;pauseButton=true\" width=\"600\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><span style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" data-mce-type=\"bookmark\" class=\"mce_SELRES_start\">﻿</span> </iframe></p>\n<p><a href=\"http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2025/09/zumprogramm.png\"><img loading=\"lazy\" decoding=\"async\" class=\"alignleft wp-image-2195\" src=\"http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2025/09/zumprogramm.png\" alt=\"\" width=\"30\" height=\"20\"></a>Durch Klick auf dieses Symbol in der Kopfleiste der Programme kommen Sie zum Programm-Code und können dort eigene Kennwerte für das Bild vorgeben.</p>\n</body></html>",
+  "media": [],
+  "externalLinks": [
+    {
+      "href": "http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2026/04/komputerstrukturen.png",
+      "text": ""
+    },
+    {
+      "href": "https://de.wikipedia.org/wiki/Peter_Struycken",
+      "text": "Peter Struycken"
+    },
+    {
+      "href": "https://www.iwriteiam.nl/PS_OSTRC.html",
+      "text": "OSTRC"
+    },
+    {
+      "href": "http://digitalart.joachim-wedekind.de/wp-content/uploads/sites/11/2025/09/zumprogramm.png",
+      "text": ""
+    }
+  ]
+}
