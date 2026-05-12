@@ -1,0 +1,22 @@
+---
+interface Props {
+  order: number;
+  title: string;
+  slug: string;
+  previewPath?: string;
+}
+
+const { order, title, slug, previewPath } = Astro.props;
+---
+
+<article class="exhibit-card">
+  <a class="exhibit-card__link" href={`/exponate/${slug}/`}>
+    <div class="exhibit-card__media" aria-hidden="true">
+      {previewPath ? <img src={previewPath} alt="" loading="lazy" /> : <span>{String(order).padStart(2, '0')}</span>}
+    </div>
+    <div class="exhibit-card__body">
+      <p class="exhibit-card__order">Exponat {order}</p>
+      <h2>{title}</h2>
+    </div>
+  </a>
+</article>

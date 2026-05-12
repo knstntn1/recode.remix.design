@@ -1,22 +1,46 @@
 ---
-import PlaceholderCard from '../components/PlaceholderCard.astro';
+import ArticleContent from '../components/ArticleContent.astro';
+import ExhibitCard from '../components/ExhibitCard.astro';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import exhibition from '../data/exhibition.json';
+import manifestData from '../data/exhibit-manifest.json';
+
+const exhibitPages = import.meta.glob('../data/exhibits/*.json', {
+  eager: true,
+  import: 'default',
+});
+
+const exhibits = manifestData.exhibits.map((exhibit) => {
+  const page = exhibitPages[`../data/exhibits/${exhibit.slug}.json`] as { media?: { localPath: string }[] };
+  return {
+    ...exhibit,
+    previewPath: page?.media?.[0]?.localPath,
+  };
+});
 ---
 
 <BaseLayout>
   <div class="page-stack">
-    <section class="intro-surface surface" aria-labelledby="page-title">
+    <section class="intro-surface surface exhibition-intro" aria-labelledby="page-title">
       <h1 id="page-title">Recode.Remix.Design</h1>
-      <p>Statische Ausstellungsseite im Aufbau.</p>
+      <ArticleContent contentHtml={exhibition.contentHtml} />
     </section>
 
-    <section class="placeholder-grid" aria-label="Vorbereitete Bereiche">
-      <PlaceholderCard label="Ausstellung" heading="Inhalte werden vorbereitet">
-        <p>Die Exponate und Medien werden in der nächsten Phase lokal migriert.</p>
-      </PlaceholderCard>
-      <PlaceholderCard label="Exponate" heading="Platzhalterseiten stehen bereit">
-        <p>Die Seitenschale prueft Navigation, Flaechen, Abstaende und responsive Darstellung.</p>
-      </PlaceholderCard>
+    <section class="exhibit-index" id="exponate" aria-labelledby="exhibit-index-title">
+      <div class="section-heading">
+        <p class="eyebrow">Exponate</p>
+        <h2 id="exhibit-index-title">Alle Arbeiten</h2>
+      </div>
+      <div class="exhibit-grid">
+        {exhibits.map((exhibit) => (
+          <ExhibitCard
+            order={exhibit.order}
+            title={exhibit.title}
+            slug={exhibit.slug}
+            previewPath={exhibit.previewPath}
+          />
+        ))}
+      </div>
     </section>
   </div>
 </BaseLayout>
