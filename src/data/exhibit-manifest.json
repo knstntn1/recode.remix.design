@@ -1,0 +1,163 @@
+{
+  "source": {
+    "title": "addi-Recode.Remix.Design",
+    "sourceUrl": "http://experimente.joachim-wedekind.de/recode-remix-design/",
+    "sourcePageId": 590,
+    "sourceSlug": "recode-remix-design"
+  },
+  "exhibits": [
+    {
+      "order": 1,
+      "title": "Schotter",
+      "slug": "schotter",
+      "sourceUrl": "http://experimente.joachim-wedekind.de/addi-schotter/",
+      "sourcePageId": 635,
+      "sourceSlug": "addi-schotter",
+      "sourceTitle": "addi-Schotter"
+    },
+    {
+      "order": 2,
+      "title": "Boxes",
+      "slug": "boxes",
+      "sourceUrl": "http://experimente.joachim-wedekind.de/addi-boxes/",
+      "sourcePageId": 652,
+      "sourceSlug": "addi-boxes",
+      "sourceTitle": "addi-Boxes"
+    },
+    {
+      "order": 3,
+      "title": "500 Linien",
+      "slug": "500-linien",
+      "sourceUrl": "http://experimente.joachim-wedekind.de/?page_id=625&preview=true",
+      "sourcePageId": 625,
+      "sourceSlug": "500-linien",
+      "sourceTitle": "addi 500 Linien"
+    },
+    {
+      "order": 4,
+      "title": "Quadrate",
+      "slug": "quadrate",
+      "sourceUrl": "http://experimente.joachim-wedekind.de/addi-quadrate/",
+      "sourcePageId": 691,
+      "sourceSlug": "addi-quadrate",
+      "sourceTitle": "addi-Quadrate"
+    },
+    {
+      "order": 5,
+      "title": "Binary Rhythm",
+      "slug": "binary-rhythm",
+      "sourceUrl": "http://experimente.joachim-wedekind.de/addi-binaryrhythm/",
+      "sourcePageId": 678,
+      "sourceSlug": "addi-binaryrhythm",
+      "sourceTitle": "addi-Binary Rhythm"
+    },
+    {
+      "order": 6,
+      "title": "Grid Based Systems",
+      "slug": "grid-based-systems",
+      "sourceUrl": "http://experimente.joachim-wedekind.de/addi-grid-based-systems/",
+      "sourcePageId": 700,
+      "sourceSlug": "addi-grid-based-systems",
+      "sourceTitle": "addi-Grid Based Systems"
+    },
+    {
+      "order": 7,
+      "title": "Inequality",
+      "slug": "inequality",
+      "sourceUrl": "http://experimente.joachim-wedekind.de/addi-optical-effect-of-inequality/",
+      "sourcePageId": 689,
+      "sourceSlug": "addi-optical-effect-of-inequality",
+      "sourceTitle": "addi-Optical Effect of Inequality"
+    },
+    {
+      "order": 8,
+      "title": "Permutationen",
+      "slug": "permutationen",
+      "sourceUrl": "http://experimente.joachim-wedekind.de/addi-permutationen/",
+      "sourcePageId": 735,
+      "sourceSlug": "addi-permutationen",
+      "sourceTitle": "addi-permutationen"
+    },
+    {
+      "order": 9,
+      "title": "Labyrinth",
+      "slug": "labyrinth",
+      "sourceUrl": "http://experimente.joachim-wedekind.de/addi-labyrinth/",
+      "sourcePageId": 748,
+      "sourceSlug": "addi-labyrinth",
+      "sourceTitle": "addi-Labyrinth"
+    },
+    {
+      "order": 10,
+      "title": "Random Windows",
+      "slug": "random-windows",
+      "sourceUrl": "http://experimente.joachim-wedekind.de/addi-random-windows/",
+      "sourcePageId": 745,
+      "sourceSlug": "addi-random-windows",
+      "sourceTitle": "addi-Random Windows"
+    },
+    {
+      "order": 11,
+      "title": "n-Ecken",
+      "slug": "n-ecken",
+      "sourceUrl": "http://experimente.joachim-wedekind.de/addi-n-ecke/",
+      "sourcePageId": 732,
+      "sourceSlug": "addi-n-ecke",
+      "sourceTitle": "addi-n-Ecke"
+    },
+    {
+      "order": 12,
+      "title": "Kraftlinien",
+      "slug": "kraftlinien",
+      "sourceUrl": "http://experimente.joachim-wedekind.de/addi-kraftlinien/",
+      "sourcePageId": 671,
+      "sourceSlug": "addi-kraftlinien",
+      "sourceTitle": "addi-Kraftlinien"
+    },
+    {
+      "order": 13,
+      "title": "Komputerstrukturen",
+      "slug": "komputerstrukturen",
+      "sourceUrl": "http://experimente.joachim-wedekind.de/addi-komputerstrukturen/",
+      "sourcePageId": 752,
+      "sourceSlug": "addi-komputerstrukturen",
+      "sourceTitle": "addi-Komputerstrukturen"
+    },
+    {
+      "order": 14,
+      "title": "Farbzentren",
+      "slug": "farbzentren",
+      "sourceUrl": "http://experimente.joachim-wedekind.de/addi-farbzentren/",
+      "sourcePageId": 729,
+      "sourceSlug": "addi-farbzentren",
+      "sourceTitle": "addi-Farbzentren"
+    },
+    {
+      "order": 15,
+      "title": "Punkt.Linie.Flaeche",
+      "slug": "punkt-linie-flaeche",
+      "sourceUrl": "http://experimente.joachim-wedekind.de/addi-punkt-linie-flaeche/",
+      "sourcePageId": 755,
+      "sourceSlug": "addi-punkt-linie-flaeche",
+      "sourceTitle": "addi-Punkt.Linie.Fläche"
+    },
+    {
+      "order": 16,
+      "title": "Fraktale",
+      "slug": "fraktale",
+      "sourceUrl": "http://experimente.joachim-wedekind.de/addi-fraktale/",
+      "sourcePageId": 660,
+      "sourceSlug": "addi-fraktale",
+      "sourceTitle": "addi-Fraktale"
+    },
+    {
+      "order": 17,
+      "title": "Sinus Addition",
+      "slug": "sinus-addition",
+      "sourceUrl": "http://experimente.joachim-wedekind.de/addi-sinus-addition/",
+      "sourcePageId": 737,
+      "sourceSlug": "addi-sinus-addition",
+      "sourceTitle": "addi-Sinus-Addition"
+    }
+  ]
+}

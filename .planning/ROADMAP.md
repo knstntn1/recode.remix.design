@@ -55,7 +55,7 @@ Plans:
 **Plans**: 3 plans
 
 Plans:
-- [ ] 02-01: Build source inventory and exhibit metadata map.
+- [x] 02-01: Build source inventory and exhibit metadata map.
 - [ ] 02-02: Import/migrate article content and download required local media.
 - [ ] 02-03: Rewrite media references, preserve external learning links, and validate migration completeness.
 
@@ -101,6 +101,6 @@ Phases execute in numeric order: 1 -> 2 -> 3 -> 4
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Static Site Foundation and Visual System | 3/3 | Complete    | 2026-05-12 |
-| 2. Source Content and Asset Migration | 0/3 | Not started | - |
+| 2. Source Content and Asset Migration | 1/3 | In Progress|  |
 | 3. Exhibition Pages and Navigation | 0/3 | Not started | - |
 | 4. Verification and Deployment Readiness | 0/2 | Not started | - |
