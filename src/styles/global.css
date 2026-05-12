@@ -134,14 +134,14 @@ p {
 }
 
 .site-header__logo img {
-  width: 58px;
+  width: 118px;
   height: auto;
   display: block;
 }
 
 .site-header__title {
   color: #ffffff;
-  font-size: 38px;
+  font-size: 30px;
   line-height: 1.1;
   font-weight: 700;
 }
@@ -552,7 +552,7 @@ p {
   }
 
   .site-header__logo img {
-    width: 44px;
+    width: 82px;
   }
 
   .site-footer__inner {

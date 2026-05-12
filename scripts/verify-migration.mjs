@@ -6,7 +6,7 @@ const root = new URL("..", import.meta.url);
 const manifestPath = new URL("src/data/exhibit-manifest.json", root);
 const exhibitionPath = new URL("src/data/exhibition.json", root);
 const dataDir = new URL("src/data/", root);
-const forbiddenSource = "experimente.joachim-wedekind.de/wp-content";
+const forbiddenSourcePattern = /joachim-wedekind\.de\/wp-content/;
 const failures = [];
 
 async function readJson(url, label) {
@@ -101,8 +101,8 @@ for (const exhibit of manifest?.exhibits || []) {
 if (existsSync(dataDir)) {
   for (const file of await collectFiles(dataDir.pathname)) {
     const contents = await readFile(file, "utf8");
-    if (contents.includes(forbiddenSource)) {
-      failures.push(`${file} contains ${forbiddenSource}`);
+    if (forbiddenSourcePattern.test(contents)) {
+      failures.push(`${file} contains a Joachim-Wedekind wp-content media URL`);
     }
   }
 }

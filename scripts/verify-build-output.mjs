@@ -6,7 +6,7 @@ import { load } from "cheerio";
 const root = new URL("..", import.meta.url);
 const distDir = new URL("dist/", root);
 const manifest = JSON.parse(await readFile(new URL("src/data/exhibit-manifest.json", root), "utf8"));
-const forbiddenSource = "experimente.joachim-wedekind.de/wp-content";
+const forbiddenSourcePattern = /joachim-wedekind\.de\/wp-content/;
 const failures = [];
 
 async function collectFiles(directory) {
@@ -68,8 +68,8 @@ for (const page of [
 const files = existsSync(distDir) ? await collectFiles(distDir.pathname) : [];
 for (const file of files) {
   const contents = await readFile(file, "utf8");
-  if (contents.includes(forbiddenSource)) {
-    failures.push(`${file} contains ${forbiddenSource}`);
+  if (forbiddenSourcePattern.test(contents)) {
+    failures.push(`${file} contains a Joachim-Wedekind wp-content media URL`);
   }
 
   if (extname(file) !== ".html") {

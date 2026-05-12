@@ -49,7 +49,7 @@ function normalizeUrl(value) {
 }
 
 function isSourceMediaUrl(url) {
-  return url.hostname === "experimente.joachim-wedekind.de" && url.pathname.includes("/wp-content/uploads/");
+  return url.hostname.endsWith("joachim-wedekind.de") && url.pathname.includes("/wp-content/uploads/");
 }
 
 function localAssetFor(url) {
