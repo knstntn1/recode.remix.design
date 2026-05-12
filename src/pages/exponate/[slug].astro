@@ -1,19 +1,15 @@
 ---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
 export function getStaticPaths() {
   return [{ params: { slug: 'platzhalter' } }];
 }
 ---
 
-<html lang="de">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>Exponat Platzhalter | Recode.Remix.Design</title>
-  </head>
-  <body>
-    <main>
-      <h1>Exponat Platzhalter</h1>
-      <p>Statische Ausstellungsseite im Aufbau.</p>
-    </main>
-  </body>
-</html>
+<BaseLayout title="Exponat Platzhalter">
+  <section class="intro-surface surface" aria-labelledby="exhibit-title">
+    <h1 id="exhibit-title">Exponat Platzhalter</h1>
+    <p>Statische Ausstellungsseite im Aufbau.</p>
+    <p>Die Exponate und Medien werden in der nächsten Phase lokal migriert.</p>
+  </section>
+</BaseLayout>

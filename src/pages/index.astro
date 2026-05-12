@@ -1,16 +1,22 @@
 ---
+import PlaceholderCard from '../components/PlaceholderCard.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
-<html lang="de">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>Recode.Remix.Design</title>
-  </head>
-  <body>
-    <main>
-      <h1>Recode.Remix.Design</h1>
+<BaseLayout>
+  <div class="page-stack">
+    <section class="intro-surface surface" aria-labelledby="page-title">
+      <h1 id="page-title">Recode.Remix.Design</h1>
       <p>Statische Ausstellungsseite im Aufbau.</p>
-    </main>
-  </body>
-</html>
+    </section>
+
+    <section class="placeholder-grid" aria-label="Vorbereitete Bereiche">
+      <PlaceholderCard label="Ausstellung" heading="Inhalte werden vorbereitet">
+        <p>Die Exponate und Medien werden in der nächsten Phase lokal migriert.</p>
+      </PlaceholderCard>
+      <PlaceholderCard label="Exponate" heading="Platzhalterseiten stehen bereit">
+        <p>Die Seitenschale prueft Navigation, Flaechen, Abstaende und responsive Darstellung.</p>
+      </PlaceholderCard>
+    </section>
+  </div>
+</BaseLayout>
