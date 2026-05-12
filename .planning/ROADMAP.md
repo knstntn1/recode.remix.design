@@ -90,7 +90,7 @@ Plans:
 **Plans**: 2 plans
 
 Plans:
-- [ ] 04-01: Add automated build/link/asset verification checks.
+- [x] 04-01: Add automated build/link/asset verification checks.
 - [ ] 04-02: Run responsive visual QA, fix polish issues, and document deployment readiness.
 
 ## Progress
@@ -103,4 +103,4 @@ Phases execute in numeric order: 1 -> 2 -> 3 -> 4
 | 1. Static Site Foundation and Visual System | 3/3 | Complete    | 2026-05-12 |
 | 2. Source Content and Asset Migration | 3/3 | Complete    | 2026-05-12 |
 | 3. Exhibition Pages and Navigation | 3/3 | Complete    | 2026-05-12 |
-| 4. Verification and Deployment Readiness | 0/2 | Not started | - |
+| 4. Verification and Deployment Readiness | 1/2 | In Progress|  |
