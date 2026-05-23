@@ -107,10 +107,6 @@ p {
   padding-inline: 4vw;
 }
 
-.site-main > .container:has(.exhibition-intro) {
-  max-width: 1744px;
-}
-
 .site-header {
   padding: 12px 4vw;
   color: #ffffff;
